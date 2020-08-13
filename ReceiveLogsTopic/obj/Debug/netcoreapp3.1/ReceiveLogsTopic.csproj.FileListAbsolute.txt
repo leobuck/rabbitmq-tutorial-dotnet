@@ -1,0 +1,13 @@
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.exe
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.deps.json
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.runtimeconfig.json
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.runtimeconfig.dev.json
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.dll
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\ReceiveLogsTopic.pdb
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.csprojAssemblyReference.cache
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.AssemblyInfoInputs.cache
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.AssemblyInfo.cs
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.csproj.CopyComplete
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.dll
+D:\Source\Repos\rabbitmq\ReceiveLogsTopic\obj\Debug\netcoreapp3.1\ReceiveLogsTopic.pdb

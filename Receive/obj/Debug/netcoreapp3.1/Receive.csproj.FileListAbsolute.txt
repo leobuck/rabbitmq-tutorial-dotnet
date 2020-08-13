@@ -1,0 +1,13 @@
+D:\Source\Repos\rabbitmq\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+D:\Source\Repos\rabbitmq\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+D:\Source\Repos\rabbitmq\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+D:\Source\Repos\rabbitmq\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+D:\Source\Repos\rabbitmq\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+D:\Source\Repos\rabbitmq\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+D:\Source\Repos\rabbitmq\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Source\Repos\rabbitmq\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+D:\Source\Repos\rabbitmq\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+D:\Source\Repos\rabbitmq\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+D:\Source\Repos\rabbitmq\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+D:\Source\Repos\rabbitmq\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+D:\Source\Repos\rabbitmq\Receive\obj\Debug\netcoreapp3.1\Receive.pdb

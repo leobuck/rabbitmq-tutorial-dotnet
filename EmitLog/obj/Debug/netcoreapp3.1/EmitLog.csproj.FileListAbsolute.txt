@@ -1,0 +1,13 @@
+D:\Source\Repos\rabbitmq\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.exe
+D:\Source\Repos\rabbitmq\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.deps.json
+D:\Source\Repos\rabbitmq\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.runtimeconfig.json
+D:\Source\Repos\rabbitmq\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.runtimeconfig.dev.json
+D:\Source\Repos\rabbitmq\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.dll
+D:\Source\Repos\rabbitmq\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.pdb
+D:\Source\Repos\rabbitmq\EmitLog\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Source\Repos\rabbitmq\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.csprojAssemblyReference.cache
+D:\Source\Repos\rabbitmq\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.AssemblyInfoInputs.cache
+D:\Source\Repos\rabbitmq\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.AssemblyInfo.cs
+D:\Source\Repos\rabbitmq\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.csproj.CopyComplete
+D:\Source\Repos\rabbitmq\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.dll
+D:\Source\Repos\rabbitmq\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.pdb

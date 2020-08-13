@@ -1,0 +1,13 @@
+D:\Source\Repos\rabbitmq\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+D:\Source\Repos\rabbitmq\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+D:\Source\Repos\rabbitmq\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+D:\Source\Repos\rabbitmq\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+D:\Source\Repos\rabbitmq\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+D:\Source\Repos\rabbitmq\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+D:\Source\Repos\rabbitmq\Publisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Source\Repos\rabbitmq\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+D:\Source\Repos\rabbitmq\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+D:\Source\Repos\rabbitmq\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+D:\Source\Repos\rabbitmq\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+D:\Source\Repos\rabbitmq\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+D:\Source\Repos\rabbitmq\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb

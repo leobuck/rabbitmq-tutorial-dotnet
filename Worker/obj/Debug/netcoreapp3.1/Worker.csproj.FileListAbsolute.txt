@@ -1,0 +1,13 @@
+D:\Source\Repos\rabbitmq\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+D:\Source\Repos\rabbitmq\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+D:\Source\Repos\rabbitmq\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+D:\Source\Repos\rabbitmq\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+D:\Source\Repos\rabbitmq\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+D:\Source\Repos\rabbitmq\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+D:\Source\Repos\rabbitmq\Worker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Source\Repos\rabbitmq\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
+D:\Source\Repos\rabbitmq\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+D:\Source\Repos\rabbitmq\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+D:\Source\Repos\rabbitmq\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CopyComplete
+D:\Source\Repos\rabbitmq\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+D:\Source\Repos\rabbitmq\Worker\obj\Debug\netcoreapp3.1\Worker.pdb

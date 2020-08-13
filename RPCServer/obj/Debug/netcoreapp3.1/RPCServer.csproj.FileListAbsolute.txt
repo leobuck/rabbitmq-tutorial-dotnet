@@ -1,0 +1,13 @@
+D:\Source\Repos\rabbitmq\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.exe
+D:\Source\Repos\rabbitmq\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.deps.json
+D:\Source\Repos\rabbitmq\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.runtimeconfig.json
+D:\Source\Repos\rabbitmq\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.runtimeconfig.dev.json
+D:\Source\Repos\rabbitmq\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.dll
+D:\Source\Repos\rabbitmq\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.pdb
+D:\Source\Repos\rabbitmq\RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Source\Repos\rabbitmq\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csprojAssemblyReference.cache
+D:\Source\Repos\rabbitmq\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfoInputs.cache
+D:\Source\Repos\rabbitmq\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfo.cs
+D:\Source\Repos\rabbitmq\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csproj.CopyComplete
+D:\Source\Repos\rabbitmq\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.dll
+D:\Source\Repos\rabbitmq\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.pdb
